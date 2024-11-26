@@ -1,0 +1,254 @@
+body{
+    background-image: url(back1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%
+}
+
+.container{
+    margin-top: 20px;
+    margin: 0 50px;
+}
+
+.navig{
+    position: relative;
+    left: 20px;
+}
+
+.polos{
+    position: relative;
+    left: 85%;
+}
+
+.lup{
+    position: relative;
+    bottom: 5px;
+    left: 83%;
+}
+
+.photo{
+    position: relative;
+    top: 100px;
+    left: 60%;
+}
+
+.Text{
+    font-family: arial black;
+    color: greenyellow;
+    position: relative;
+    top: -380px;
+    left: 0%;
+}
+.q{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+    .tastes{
+    font-family: Arial;
+    position: relative;
+    font-size: 100px;
+
+}
+.kj{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.lorems{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.container2{
+    margin-top: 20px;
+    margin: 0 50px;
+}
+
+.photo2{
+    position: relative;
+    top: 200%;
+    left: 0%;
+    width:200% ;
+    height:200% ;
+}
+
+.Text2{
+    font-family: arial black;
+    color: greenyellow;
+    position: relative;
+    top: -550px;
+    left: -50%;
+}
+.tastes2{
+    font-family: Arial;
+    position: relative;
+    font-size: 100px;
+}
+.lorems2{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.op2{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.container3{
+    margin-top: 20px;
+    margin: 0 50px;
+}
+
+.photo3{
+    position: relative;
+    top: 100px;
+    left: 84%;
+}
+
+.Text3{
+    font-family: arial black;
+    color: greenyellow;
+    position: relative;
+    top: -750px;
+    right: 110%;
+}
+.tastes3{
+    font-family: Arial;
+    position: relative;
+    font-size: 100px;
+}
+.lorems3{
+    font-family: Arial;
+    position: relative;
+    font-size: 100px;
+}
+.op3{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.container4{
+    margin-top: 20px;
+    margin: 0 50px;
+}
+.photo4{
+    position: relative;
+    top: 100px;
+    left: 79%;
+}
+.q4{
+    font-family: Arial;
+    position: relative;
+    font-size: 100px;
+}
+    .tastes4{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+
+}
+.kj4{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.lorems4{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.container5{
+    margin-top: 20px;
+    margin: 0 50px;
+}
+.photo5{
+    position: relative;
+    top: 100px;
+    left: 1%;
+}
+
+.kj5{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.lorems5{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+.container6{
+    margin-top: 20px;
+    margin: 0 50px;
+}
+.Text6{
+    font-family: arial black;
+    color: greenyellow;
+    position: relative;
+    top: 50px;
+    right: 28%;
+}
+.tastes6{
+    font-family: Arial;
+    position: relative;
+    font-size: 80px;
+    top: -40px;
+    left: 1%;
+}
+.lorems6{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+    top: -98px;
+    left: -20%;
+}
+.op6{
+    font-family: Arial;
+    position: relative;
+    font-size: 50px;
+    top: -70px;
+    left: -20%;
+}
+.lorems7{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+    top: -408px;
+    left: 20%;
+}
+.op7{
+    font-family: Arial;
+    position: relative;
+    font-size: 50px;
+    top: -378px;
+    left: 20%;
+}
+.lorems9{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+    top: -338px;
+    left: 20%;
+}
+.op9{
+    font-family: Arial;
+    position: relative;
+    font-size: 50px;
+    top: -305px;
+    left: 20%;
+}
+.lorems10{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+    top: -608px;
+    left: -20%;
+}
+.op10{
+    font-family: Arial;
+    position: relative;
+    font-size: 50px;
+    top: -578px;
+    left: -20%;
+}
